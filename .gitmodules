@@ -1,0 +1,3 @@
+[submodule "CLEAR"]
+	path = CLEAR
+	url = git@github.com:airanmehr/CLEAR.git
